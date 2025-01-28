@@ -4,9 +4,9 @@ This repository contains a data science project on a dataset from Palechor & Man
 
 Below is a table describing the variables measured: 
 
-+----------------+------------------------------------------------------+---------------------------------------------------+
+
 | Variable name  |                    Question asked                    |                      Options                      |
-+----------------+------------------------------------------------------+---------------------------------------------------+
+|----------------|------------------------------------------------------|---------------------------------------------------|
 |     Gender     |                 What is your gender?                 |                    Male, Female                   |
 |      Age       |                  What is your age?                   |                   Numeric value                   |
 |     Height     |                 What is your height?                 |              Numeric value in meters              |
@@ -22,11 +22,9 @@ Below is a table describing the variables measured:
 |      FAF       |       How often do you have physical activity?       |        Never, 1-2 days, 2-4 days, 4-5 days        |
 |      TUE       |   How much time do you use technological devices?    |           0-2 hours, 3-5 hours, >5 hours          |
 |      CALC      |           How often do you drink alcohol?            |        Never, Sometimes, Frequently, Always       |
-|     MTRANS     |           Which transportation do you use?           |       Walking, Bike, Public transportation,       |
-|                |                                                      |               Motorbike, Automobile               |
-|    Obesity     |               Category of body weight                | Underweight, Normal, Overweight I, Overweight II, |
-|                |                                                      |         Obesity I, Obesity II, Obesity III        |
-+----------------+------------------------------------------------------+---------------------------------------------------+
+|     MTRANS     |           Which transportation do you use?           |       Walking, Bike, Public transportation, Motorbike, Automobile |
+|    Obesity     |               Category of body weight                | Underweight, Normal, Overweight I, Overweight II, Obesity I, Obesity II, Obesity III |
+
 
 I focused on fitting the random forest classifier and multinomial logistic regression for this dataset. The notebook contain my work is here: [obesity-prediction.ipynb](https://github.com/layaasiv/obesity-prediction/blob/main/obesity-prediction.ipynb) 
 
