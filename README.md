@@ -27,5 +27,3 @@ Below is a table describing the variables measured:
 
 
 I focused on fitting the random forest classifier and multinomial logistic regression for this dataset. The notebook contain my work is here: [obesity-prediction.ipynb](https://github.com/layaasiv/obesity-prediction/blob/main/obesity-prediction.ipynb) 
-
-This project is ongoing, I will continue to add to the analysis and update. 
